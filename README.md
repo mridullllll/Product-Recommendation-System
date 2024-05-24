@@ -70,7 +70,3 @@ The Jupyter Notebook `Recommendation System, Big Basket.ipynb` contains the comp
 ## Conclusion
 
 This project demonstrates the application of various data science techniques to build a recommendation system. It showcases the use of frequent itemsets mining, association rules mining, and collaborative filtering to provide personalized recommendations to customers.
-
-## Author
-
-- Mridul Makhija
