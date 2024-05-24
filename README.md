@@ -1,5 +1,3 @@
-# Recommendation-System---Big-Basket
-
 # Recommendation System for Big Basket
 
 This repository contains the code and analysis for a recommendation system built for Big Basket, a leading online grocery store. The goal of this project is to provide personalized product recommendations to customers based on their purchasing behavior.
